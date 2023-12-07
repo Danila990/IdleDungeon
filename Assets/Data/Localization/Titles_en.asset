@@ -1,0 +1,231 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Titles_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 32bddb0998ecd2348b31b34463d16670, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 13465767936
+    m_Localized: Use
+    m_Metadata:
+      m_Items: []
+  - m_Id: 571467583488
+    m_Localized: Unlimited
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1663538515968
+    m_Localized: Buy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2569935998976
+    m_Localized: MORE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3038548807680
+    m_Localized: AUTO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4899469217792
+    m_Localized: VICTORY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4962471858176
+    m_Localized: DEFEAT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5014422507520
+    m_Localized: BONUS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5197671649280
+    m_Localized: CLAIM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5631769530368
+    m_Localized: NEW HERO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7465322106880
+    m_Localized: GET
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8065057247232
+    m_Localized: AD DESTROYER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35492416409600
+    m_Localized: Fight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54150526095360
+    m_Localized: Battle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55574446166016
+    m_Localized: Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55706382192640
+    m_Localized: HEROES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56031457529856
+    m_Localized: MAP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56249800413184
+    m_Localized: CLANS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60848720531456
+    m_Localized: Health
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61163977003008
+    m_Localized: Damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61328163033088
+    m_Localized: Attack rate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61530986991616
+    m_Localized: Ability cooldown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61785686102016
+    m_Localized: UPGRADE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63103771299840
+    m_Localized: Frosty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63158796374016
+    m_Localized: Freezes a group of enemies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63753628372992
+    m_Localized: Chickpeare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63829620772864
+    m_Localized: A hard hit on the enemy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63909673259008
+    m_Localized: Teffana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63981421023232
+    m_Localized: Invulnerable for a while
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64137855979520
+    m_Localized: Helga
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71753722187776
+    m_Localized: A hard hit on a group of enemies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71856323252224
+    m_Localized: Knight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71883720445952
+    m_Localized: Selected hero will become temporarily invulnerable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72040432226304
+    m_Localized: Brosey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72047164084224
+    m_Localized: Throws the anvil to the chosen place
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72245399474176
+    m_Localized: Fishman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72259421032448
+    m_Localized: Spinning around with a fish in his hands
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72346230542336
+    m_Localized: Stein
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72375422898176
+    m_Localized: Turns his spear into a SUPER spear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72496223047680
+    m_Localized: Shaman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72502992654336
+    m_Localized: Treats the weakest hero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72614984765440
+    m_Localized: Diomid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72723575296000
+    m_Localized: A hard hit on a group of enemies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72826465767424
+    m_Localized: Medium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72895705337856
+    m_Localized: Fast
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74605391728640
+    m_Localized: Kick out
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74742000209920
+    m_Localized: To team
+    m_Metadata:
+      m_Items: []
+  - m_Id: 353268557369344
+    m_Localized: NO MORE ADVERTISING BEFORE LEVELS!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 396003427438592
+    m_Localized: Exclusive hero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 396176396341248
+    m_Localized: Sale 70%
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25078349021040640
+    m_Localized: Buy Yan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25079034559057920
+    m_Localized: Yan
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

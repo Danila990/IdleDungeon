@@ -1,0 +1,56 @@
+{ "skeleton": { "images": "C:/Users/welld/Desktop/cowboy/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "char", "bone": "root", "attachment": "char" },
+	{ "name": "lasso_1", "bone": "root", "attachment": "lasso_1" },
+	{ "name": "cloak", "bone": "root", "attachment": "cloak" },
+	{ "name": "shadow", "bone": "root", "attachment": "shadow" },
+	{ "name": "l leg", "bone": "root", "attachment": "l leg" },
+	{ "name": "r leg", "bone": "root", "attachment": "r leg" },
+	{ "name": "lasso", "bone": "root", "attachment": "lasso" },
+	{ "name": "l hand", "bone": "root", "attachment": "l hand" },
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "r hand", "bone": "root", "attachment": "r hand" },
+	{ "name": "head", "bone": "root", "attachment": "head" }
+],
+"skins": {
+	"default": {
+		"char": {
+			"char": { "x": 394, "y": -149.5, "width": 110, "height": 129 }
+		},
+		"lasso_1": {
+			"lasso_1": { "x": 402.5, "y": -26, "width": 165, "height": 18 }
+		},
+		"cloak": {
+			"cloak": { "x": 369, "y": -163.5, "width": 60, "height": 43 }
+		},
+		"shadow": {
+			"shadow": { "x": 392, "y": -200.5, "width": 84, "height": 27 }
+		},
+		"l leg": {
+			"l leg": { "x": 408, "y": -188.5, "width": 28, "height": 31 }
+		},
+		"r leg": {
+			"r leg": { "x": 376.5, "y": -185, "width": 33, "height": 36 }
+		},
+		"lasso": {
+			"lasso": { "x": 422, "y": -187.5, "width": 56, "height": 33 }
+		},
+		"l hand": {
+			"l hand": { "x": 422, "y": -167, "width": 26, "height": 24 }
+		},
+		"body": {
+			"body": { "x": 391.5, "y": -163, "width": 49, "height": 44 }
+		},
+		"r hand": {
+			"r hand": { "x": 369, "y": -159.5, "width": 24, "height": 29 }
+		},
+		"head": {
+			"head": { "x": 407.5, "y": -128, "width": 77, "height": 86 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

@@ -1,0 +1,49 @@
+ice.png
+size:289,142
+filter:Linear,Linear
+pma:true
+ice/Elements 2
+bounds:2,49,91,79
+offsets:3,1,97,80
+rotate:90
+ice/body
+bounds:97,2,52,52
+ice/cloak
+bounds:2,4,59,43
+ice/head
+bounds:83,56,84,80
+rotate:90
+ice/l hand
+bounds:256,82,21,26
+offsets:1,0,23,26
+ice/l leg
+bounds:256,110,26,30
+offsets:0,1,27,31
+ice/l scapular
+bounds:63,8,39,32
+offsets:1,1,41,34
+rotate:90
+ice/r hand
+bounds:185,2,18,31
+offsets:0,0,19,31
+rotate:90
+ice/r leg
+bounds:185,22,32,34
+offsets:0,1,32,35
+ice/r scapular
+bounds:151,15,39,32
+offsets:1,1,41,34
+rotate:90
+ice/shadow
+bounds:165,58,82,24
+offsets:1,1,84,26
+rotate:90
+ice/snow
+bounds:151,2,11,12
+rotate:90
+ice/sword
+bounds:219,7,61,68
+offsets:1,1,63,70
+rotate:90
+ice/sword_light
+bounds:191,70,63,70

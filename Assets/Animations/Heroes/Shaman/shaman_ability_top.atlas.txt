@@ -1,0 +1,7 @@
+shaman_ability_top.png
+size:49,40
+filter:Linear,Linear
+pma:true
+shaman/plus
+bounds:2,2,45,36
+offsets:0,2,46,41

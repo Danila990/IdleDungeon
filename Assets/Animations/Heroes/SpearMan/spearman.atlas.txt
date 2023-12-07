@@ -1,0 +1,39 @@
+spearman.png
+size:252,274
+filter:Linear,Linear
+pma:true
+spearman/body
+bounds:106,14,48,45
+rotate:90
+spearman/head
+bounds:29,16,75,77
+offsets:0,1,75,78
+spearman/l hand
+bounds:153,2,25,23
+offsets:0,0,26,23
+spearman/l leg
+bounds:188,32,26,30
+offsets:0,1,27,31
+spearman/r hand
+bounds:180,5,20,31
+rotate:90
+spearman/r leg
+bounds:153,27,33,35
+offsets:0,1,33,36
+spearman/scapular
+bounds:213,2,28,25
+offsets:1,1,30,27
+rotate:90
+spearman/shadow
+bounds:2,11,82,25
+offsets:1,1,84,27
+rotate:90
+spearman/spear
+bounds:106,64,142,29
+offsets:1,1,144,31
+spearman/spear_1
+bounds:181,97,175,69
+offsets:1,1,177,71
+rotate:90
+spearman/spear_spean
+bounds:2,95,177,177

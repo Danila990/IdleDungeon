@@ -1,0 +1,56 @@
+{ "skeleton": { "images": "C:/Users/welld/Desktop/daenerys/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "char", "bone": "root", "attachment": "char" },
+	{ "name": "shadow", "bone": "root", "attachment": "shadow" },
+	{ "name": "hair", "bone": "root", "attachment": "hair" },
+	{ "name": "l leg", "bone": "root", "attachment": "l leg" },
+	{ "name": "r leg", "bone": "root", "attachment": "r leg" },
+	{ "name": "l hand", "bone": "root", "attachment": "l hand" },
+	{ "name": "fire", "bone": "root", "attachment": "fire" },
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "r hand", "bone": "root", "attachment": "r hand" },
+	{ "name": "scapular", "bone": "root", "attachment": "scapular" },
+	{ "name": "head", "bone": "root", "attachment": "head" }
+],
+"skins": {
+	"default": {
+		"char": {
+			"char": { "x": 429, "y": -160, "width": 118, "height": 128 }
+		},
+		"shadow": {
+			"shadow": { "x": 412, "y": -209.5, "width": 84, "height": 27 }
+		},
+		"hair": {
+			"hair": { "x": 401, "y": -159.5, "width": 36, "height": 59 }
+		},
+		"l leg": {
+			"l leg": { "x": 426, "y": -196, "width": 28, "height": 32 }
+		},
+		"r leg": {
+			"r leg": { "x": 396, "y": -196.5, "width": 26, "height": 29 }
+		},
+		"l hand": {
+			"l hand": { "x": 436, "y": -172, "width": 30, "height": 20 }
+		},
+		"fire": {
+			"fire": { "x": 464.5, "y": -162, "width": 47, "height": 46 }
+		},
+		"body": {
+			"body": { "x": 413, "y": -172, "width": 42, "height": 50 }
+		},
+		"r hand": {
+			"r hand": { "x": 387.5, "y": -168.5, "width": 21, "height": 27 }
+		},
+		"scapular": {
+			"scapular": { "x": 398, "y": -160.5, "width": 26, "height": 23 }
+		},
+		"head": {
+			"head": { "x": 418.5, "y": -139.5, "width": 71, "height": 87 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

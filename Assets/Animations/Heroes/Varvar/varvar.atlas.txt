@@ -1,0 +1,42 @@
+varvar.png
+size:132,256
+filter:Linear,Linear
+pma:true
+varvar/blade_air1
+bounds:2,222,32,119
+offsets:2,0,34,120
+rotate:90
+varvar/body
+bounds:2,2,55,55
+varvar/head
+bounds:2,147,73,84
+rotate:90
+varvar/l hand
+bounds:92,8,26,23
+offsets:0,1,26,24
+varvar/l leg
+bounds:59,29,27,31
+rotate:90
+varvar/r hand
+bounds:92,33,23,29
+rotate:90
+varvar/r leg
+bounds:88,152,33,35
+rotate:90
+varvar/scapular
+bounds:88,120,34,30
+offsets:1,1,36,32
+varvar/scream
+bounds:71,58,60,56
+rotate:90
+varvar/shadow
+bounds:2,120,82,25
+offsets:1,1,84,27
+varvar/sword
+bounds:2,59,59,67
+offsets:1,1,61,69
+rotate:90
+varvar/tail
+bounds:88,187,33,42
+offsets:1,0,34,42
+rotate:90

@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53ba9d032722fd84594f6cf6211cc734, type: 3}
+  m_Name: enemiesStats
+  m_EditorClassIdentifier: 
+  SheetName: Assets/Data/GDD IDLE DUNGEON.xlsx
+  WorksheetName: enemiesStats
+  dataArray:
+  - enemy: Skeleton-1
+    startonlvl: 0
+    endonlvl: 5
+    intervalsoflvl: 1
+    starthp: 60
+    startdamage: 3
+    velocity: 5
+  - enemy: Skeleton-2
+    startonlvl: 1
+    endonlvl: 5
+    intervalsoflvl: 1
+    starthp: 60
+    startdamage: 3
+    velocity: 5
+  - enemy: Skeleton-3
+    startonlvl: 1
+    endonlvl: 5
+    intervalsoflvl: 1
+    starthp: 60
+    startdamage: 3
+    velocity: 5
+  - enemy: Orc-1
+    startonlvl: 5
+    endonlvl: 15
+    intervalsoflvl: 1
+    starthp: 60
+    startdamage: 3
+    velocity: 5
+  - enemy: Orc-2
+    startonlvl: 5
+    endonlvl: 15
+    intervalsoflvl: 1
+    starthp: 60
+    startdamage: 3
+    velocity: 5
+  - enemy: Orc-3
+    startonlvl: 5
+    endonlvl: 15
+    intervalsoflvl: 1
+    starthp: 60
+    startdamage: 3
+    velocity: 5
+  - enemy: Mummy-1
+    startonlvl: 15
+    endonlvl: 25
+    intervalsoflvl: 1
+    starthp: 60
+    startdamage: 3
+    velocity: 5
+  - enemy: Mummy-2
+    startonlvl: 15
+    endonlvl: 25
+    intervalsoflvl: 1
+    starthp: 60
+    startdamage: 3
+    velocity: 5
+  - enemy: Mummy-3
+    startonlvl: 15
+    endonlvl: 25
+    intervalsoflvl: 1
+    starthp: 60
+    startdamage: 3
+    velocity: 5
+  - enemy: Zombie-1
+    startonlvl: 25
+    endonlvl: 99999
+    intervalsoflvl: 1
+    starthp: 60
+    startdamage: 3
+    velocity: 5
+  - enemy: Zombie-2
+    startonlvl: 25
+    endonlvl: 99999
+    intervalsoflvl: 1
+    starthp: 60
+    startdamage: 3
+    velocity: 5
+  - enemy: Zombie-3
+    startonlvl: 25
+    endonlvl: 99999
+    intervalsoflvl: 1
+    starthp: 60
+    startdamage: 3
+    velocity: 5
+  - enemy: BigFoot
+    startonlvl: 99999
+    endonlvl: 99999
+    intervalsoflvl: 10
+    starthp: 15000
+    startdamage: 5
+    velocity: 5
+  - enemy: Demon
+    startonlvl: 4
+    endonlvl: 99999
+    intervalsoflvl: 10
+    starthp: 300
+    startdamage: 5
+    velocity: 5
+  - enemy: BossRock
+    startonlvl: 9
+    endonlvl: 99999
+    intervalsoflvl: 10
+    starthp: 300
+    startdamage: 5
+    velocity: 5

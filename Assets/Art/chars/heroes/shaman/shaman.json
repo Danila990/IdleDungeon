@@ -1,0 +1,48 @@
+{ "skeleton": { "images": "C:/Users/welld/Desktop/shaman/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "char", "bone": "root", "attachment": "char" },
+	{ "name": "shadow", "bone": "root", "attachment": "shadow" },
+	{ "name": "l leg", "bone": "root", "attachment": "l leg" },
+	{ "name": "r leg", "bone": "root", "attachment": "r leg" },
+	{ "name": "l hand", "bone": "root", "attachment": "l hand" },
+	{ "name": "stick", "bone": "root", "attachment": "stick" },
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "r hand", "bone": "root", "attachment": "r hand" },
+	{ "name": "head", "bone": "root", "attachment": "head" }
+],
+"skins": {
+	"default": {
+		"char": {
+			"char": { "x": 381, "y": -115, "width": 108, "height": 128 }
+		},
+		"shadow": {
+			"shadow": { "x": 369, "y": -166.5, "width": 84, "height": 27 }
+		},
+		"l leg": {
+			"l leg": { "x": 387.5, "y": -152, "width": 15, "height": 24 }
+		},
+		"r leg": {
+			"r leg": { "x": 345.5, "y": -154, "width": 19, "height": 24 }
+		},
+		"l hand": {
+			"l hand": { "x": 395, "y": -125, "width": 30, "height": 20 }
+		},
+		"stick": {
+			"stick": { "x": 414.5, "y": -128.5, "width": 41, "height": 75 }
+		},
+		"body": {
+			"body": { "x": 367, "y": -135.5, "width": 48, "height": 57 }
+		},
+		"r hand": {
+			"r hand": { "x": 346.5, "y": -123, "width": 21, "height": 26 }
+		},
+		"head": {
+			"head": { "x": 374, "y": -95, "width": 82, "height": 88 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

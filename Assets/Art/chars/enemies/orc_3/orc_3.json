@@ -1,0 +1,48 @@
+{ "skeleton": { "images": "C:/Users/welld/Desktop/orc_3/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "char", "bone": "root", "attachment": "char" },
+	{ "name": "shadow", "bone": "root", "attachment": "shadow" },
+	{ "name": "l leg", "bone": "root", "attachment": "l leg" },
+	{ "name": "r leg", "bone": "root", "attachment": "r leg" },
+	{ "name": "l hand", "bone": "root", "attachment": "l hand" },
+	{ "name": "weapon", "bone": "root", "attachment": "weapon" },
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "r hand", "bone": "root", "attachment": "r hand" },
+	{ "name": "head", "bone": "root", "attachment": "head" }
+],
+"skins": {
+	"default": {
+		"char": {
+			"char": { "x": 96.5, "y": -150, "width": 129, "height": 122 }
+		},
+		"shadow": {
+			"shadow": { "x": 75, "y": -197.5, "width": 84, "height": 27 }
+		},
+		"l leg": {
+			"l leg": { "x": 89.5, "y": -181.5, "width": 25, "height": 33 }
+		},
+		"r leg": {
+			"r leg": { "x": 58.5, "y": -181, "width": 29, "height": 32 }
+		},
+		"l hand": {
+			"l hand": { "x": 107, "y": -161, "width": 26, "height": 24 }
+		},
+		"weapon": {
+			"weapon": { "x": 134.5, "y": -153, "width": 53, "height": 60 }
+		},
+		"body": {
+			"body": { "x": 76.5, "y": -163, "width": 51, "height": 46 }
+		},
+		"r hand": {
+			"r hand": { "x": 54, "y": -159.5, "width": 24, "height": 29 }
+		},
+		"head": {
+			"head": { "x": 84, "y": -124, "width": 80, "height": 70 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

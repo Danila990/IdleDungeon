@@ -1,0 +1,48 @@
+{ "skeleton": { "images": "C:/Users/welld/Desktop/fishman/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "char", "bone": "root", "attachment": "char" },
+	{ "name": "shadow", "bone": "root", "attachment": "shadow" },
+	{ "name": "l leg", "bone": "root", "attachment": "l leg" },
+	{ "name": "r leg", "bone": "root", "attachment": "r leg" },
+	{ "name": "l hand", "bone": "root", "attachment": "l hand" },
+	{ "name": "fish", "bone": "root", "attachment": "fish" },
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "r hand", "bone": "root", "attachment": "r hand" },
+	{ "name": "head", "bone": "root", "attachment": "head" }
+],
+"skins": {
+	"default": {
+		"char": {
+			"char": { "x": 408, "y": -143, "width": 142, "height": 134 }
+		},
+		"shadow": {
+			"shadow": { "x": 379, "y": -197, "width": 84, "height": 26 }
+		},
+		"l leg": {
+			"l leg": { "x": 396.5, "y": -183, "width": 27, "height": 32 }
+		},
+		"r leg": {
+			"r leg": { "x": 361.5, "y": -182.5, "width": 29, "height": 33 }
+		},
+		"l hand": {
+			"l hand": { "x": 412, "y": -161.5, "width": 26, "height": 23 }
+		},
+		"fish": {
+			"fish": { "x": 443.5, "y": -163.5, "width": 71, "height": 49 }
+		},
+		"body": {
+			"body": { "x": 382, "y": -158.5, "width": 52, "height": 53 }
+		},
+		"r hand": {
+			"r hand": { "x": 355, "y": -155.5, "width": 26, "height": 25 }
+		},
+		"head": {
+			"head": { "x": 394.5, "y": -122.5, "width": 77, "height": 93 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

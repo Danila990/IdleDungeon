@@ -1,0 +1,56 @@
+{ "skeleton": { "images": "C:/Users/welld/Desktop/aqua/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "char", "bone": "root", "attachment": "char" },
+	{ "name": "whale", "bone": "root", "attachment": "whale" },
+	{ "name": "shadow", "bone": "root", "attachment": "shadow" },
+	{ "name": "l leg", "bone": "root", "attachment": "l leg" },
+	{ "name": "r leg", "bone": "root", "attachment": "r leg" },
+	{ "name": "l hand", "bone": "root", "attachment": "l hand" },
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "r hand", "bone": "root", "attachment": "r hand" },
+	{ "name": "trident", "bone": "root", "attachment": "trident" },
+	{ "name": "scapular", "bone": "root", "attachment": "scapular" },
+	{ "name": "head", "bone": "root", "attachment": "head" }
+],
+"skins": {
+	"default": {
+		"char": {
+			"char": { "x": 283, "y": -185, "width": 178, "height": 124 }
+		},
+		"whale": {
+			"whale": { "x": 333.5, "y": -74.5, "width": 307, "height": 145 }
+		},
+		"shadow": {
+			"shadow": { "x": 277, "y": -233.5, "width": 84, "height": 27 }
+		},
+		"l leg": {
+			"l leg": { "x": 293.5, "y": -220.5, "width": 27, "height": 31 }
+		},
+		"r leg": {
+			"r leg": { "x": 260.5, "y": -218, "width": 33, "height": 36 }
+		},
+		"l hand": {
+			"l hand": { "x": 312, "y": -197.5, "width": 26, "height": 23 }
+		},
+		"body": {
+			"body": { "x": 277, "y": -198.5, "width": 52, "height": 43 }
+		},
+		"r hand": {
+			"r hand": { "x": 254.5, "y": -195.5, "width": 23, "height": 29 }
+		},
+		"trident": {
+			"trident": { "x": 291, "y": -201, "width": 160, "height": 44 }
+		},
+		"scapular": {
+			"scapular": { "x": 259, "y": -181.5, "width": 32, "height": 29 }
+		},
+		"head": {
+			"head": { "x": 288.5, "y": -160.5, "width": 79, "height": 75 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

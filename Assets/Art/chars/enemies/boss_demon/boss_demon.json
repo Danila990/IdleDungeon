@@ -1,0 +1,52 @@
+{ "skeleton": { "images": "C:/Users/welld/Desktop/boss_demon/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "char", "bone": "root", "attachment": "char" },
+	{ "name": "shadow", "bone": "root", "attachment": "shadow" },
+	{ "name": "l leg", "bone": "root", "attachment": "l leg" },
+	{ "name": "r leg", "bone": "root", "attachment": "r leg" },
+	{ "name": "l hand", "bone": "root", "attachment": "l hand" },
+	{ "name": "axr", "bone": "root", "attachment": "axr" },
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "r hand", "bone": "root", "attachment": "r hand" },
+	{ "name": "scapular", "bone": "root", "attachment": "scapular" },
+	{ "name": "head", "bone": "root", "attachment": "head" }
+],
+"skins": {
+	"default": {
+		"char": {
+			"char": { "x": 124.5, "y": -202, "width": 223, "height": 176 }
+		},
+		"shadow": {
+			"shadow": { "x": 74, "y": -270.5, "width": 124, "height": 39 }
+		},
+		"l leg": {
+			"l leg": { "x": 99, "y": -249, "width": 30, "height": 44 }
+		},
+		"r leg": {
+			"r leg": { "x": 55.5, "y": -249.5, "width": 39, "height": 41 }
+		},
+		"l hand": {
+			"l hand": { "x": 123, "y": -218.5, "width": 36, "height": 31 }
+		},
+		"axr": {
+			"axr": { "x": 174, "y": -197, "width": 122, "height": 122 }
+		},
+		"body": {
+			"body": { "x": 81, "y": -221, "width": 64, "height": 80 }
+		},
+		"r hand": {
+			"r hand": { "x": 40.5, "y": -213.5, "width": 31, "height": 39 }
+		},
+		"scapular": {
+			"scapular": { "x": 50, "y": -193, "width": 46, "height": 42 }
+		},
+		"head": {
+			"head": { "x": 104.5, "y": -167, "width": 139, "height": 106 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

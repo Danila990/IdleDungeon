@@ -1,0 +1,28 @@
+zombie_2.png
+size:80,260
+filter:Linear,Linear
+pma:true
+zombie_2/body
+bounds:29,67,49,49
+zombie_2/head
+bounds:2,179,70,79
+zombie_2/l hand
+bounds:55,9,25,23
+offsets:0,1,26,24
+rotate:90
+zombie_2/l leg
+bounds:2,2,26,30
+offsets:0,1,27,31
+zombie_2/r hand
+bounds:30,5,23,29
+zombie_2/r leg
+bounds:29,36,29,32
+offsets:0,0,32,36
+rotate:90
+zombie_2/shadow
+bounds:2,34,82,25
+offsets:1,1,84,27
+rotate:90
+zombie_2/weapon
+bounds:2,118,69,59
+offsets:1,1,71,61

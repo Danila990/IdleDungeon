@@ -1,0 +1,33 @@
+skeleton_3.png
+size:281,68
+filter:Linear,Linear
+pma:true
+skeleton_3/body
+bounds:151,21,44,45
+skeleton_3/head
+bounds:2,2,64,90
+rotate:90
+skeleton_3/l hand
+bounds:224,14,26,23
+offsets:0,0,27,23
+rotate:90
+skeleton_3/l leg
+bounds:175,6,13,22
+offsets:0,0,14,23
+rotate:90
+skeleton_3/r hand
+bounds:199,12,23,28
+offsets:0,0,24,29
+skeleton_3/r leg
+bounds:151,3,16,22
+offsets:1,1,17,24
+rotate:90
+skeleton_3/scapula
+bounds:249,16,25,24
+offsets:1,1,27,26
+skeleton_3/shadow
+bounds:197,42,82,24
+offsets:1,1,84,26
+skeleton_3/sword
+bounds:94,6,55,60
+offsets:1,1,57,62

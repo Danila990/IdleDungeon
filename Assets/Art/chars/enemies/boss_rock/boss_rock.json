@@ -1,0 +1,56 @@
+{ "skeleton": { "images": "C:/Users/welld/Desktop/boss_rock/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "char", "bone": "root", "attachment": "char" },
+	{ "name": "shadow", "bone": "root", "attachment": "shadow" },
+	{ "name": "l leg", "bone": "root", "attachment": "l leg" },
+	{ "name": "r leg", "bone": "root", "attachment": "r leg" },
+	{ "name": "l hand", "bone": "root", "attachment": "l hand" },
+	{ "name": "weapon", "bone": "root", "attachment": "weapon" },
+	{ "name": "l scapular", "bone": "root", "attachment": "l scapular" },
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "r hand", "bone": "root", "attachment": "r hand" },
+	{ "name": "r scapular", "bone": "root", "attachment": "r scapular" },
+	{ "name": "head", "bone": "root", "attachment": "head" }
+],
+"skins": {
+	"default": {
+		"char": {
+			"char": { "x": 140.5, "y": -220, "width": 261, "height": 198 }
+		},
+		"shadow": {
+			"shadow": { "x": 95, "y": -299, "width": 124, "height": 38 }
+		},
+		"l leg": {
+			"l leg": { "x": 121.5, "y": -274.5, "width": 33, "height": 49 }
+		},
+		"r leg": {
+			"r leg": { "x": 68, "y": -273.5, "width": 34, "height": 51 }
+		},
+		"l hand": {
+			"l hand": { "x": 158.5, "y": -231.5, "width": 41, "height": 37 }
+		},
+		"weapon": {
+			"weapon": { "x": 213, "y": -216.5, "width": 118, "height": 109 }
+		},
+		"l scapular": {
+			"l scapular": { "x": 143, "y": -204.5, "width": 60, "height": 51 }
+		},
+		"body": {
+			"body": { "x": 93, "y": -215.5, "width": 100, "height": 109 }
+		},
+		"r hand": {
+			"r hand": { "x": 28.5, "y": -222, "width": 37, "height": 46 }
+		},
+		"r scapular": {
+			"r scapular": { "x": 45.5, "y": -200, "width": 61, "height": 50 }
+		},
+		"head": {
+			"head": { "x": 125.5, "y": -176.5, "width": 107, "height": 111 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

@@ -1,0 +1,35 @@
+simple_woman.png
+size:305,80
+filter:Linear,Linear
+pma:true
+simple_woman/body
+bounds:184,11,40,39
+rotate:90
+simple_woman/head
+bounds:2,2,82,76
+simple_woman/l hand
+bounds:257,21,30,19
+rotate:90
+simple_woman/l leg
+bounds:257,2,17,25
+rotate:90
+simple_woman/r hand
+bounds:268,60,31,18
+simple_woman/r leg
+bounds:278,33,20,25
+offsets:1,0,22,25
+simple_woman/scapular
+bounds:284,6,25,19
+offsets:1,1,27,21
+rotate:90
+simple_woman/shadow
+bounds:184,53,82,25
+offsets:1,1,84,27
+simple_woman/shield
+bounds:225,4,30,47
+offsets:1,1,32,49
+simple_woman/shield_1
+bounds:135,18,47,60
+simple_woman/sword
+bounds:86,4,47,74
+offsets:1,1,49,76

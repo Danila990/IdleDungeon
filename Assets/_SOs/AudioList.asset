@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69a3ebeaa01f491409235dda6c293d7c, type: 3}
+  m_Name: AudioList
+  m_EditorClassIdentifier: 
+  audioSourceOriginal: {fileID: 4865070244494385423, guid: 451648305594e214e8339a870fd931a4, type: 3}
+  buttonSound: {fileID: 8300000, guid: 0de6f70a8f0b17143804985dc4fa40f9, type: 3}
+  buttonUpgradeSound: {fileID: 8300000, guid: ee26e2781e3bdbe47adc7ce51ef72752, type: 3}
+  collapseMenuSound: {fileID: 8300000, guid: ddde8e2266e2ff2478a88a323d6538e8, type: 3}
+  defeatSound: {fileID: 8300000, guid: f681de88925e8364ca14538b4f1fcd9c, type: 3}
+  victorySound: {fileID: 8300000, guid: 4063ae593b8a6684abab68d13bc6ab19, type: 3}
+  telepOutSound: {fileID: 8300000, guid: 619e5b3db4b60e947afc1a31c7de4278, type: 3}
+  telepInSound: {fileID: 8300000, guid: d7e312a188e14d14c846cdaff8ae984d, type: 3}
+  charcterChooseSound: {fileID: 8300000, guid: 23c251ae410099842b9b9eafecd2b2d5, type: 3}
+  menuMusic:
+  - {fileID: 8300000, guid: 6e76e1875f852de4b8282c7c7ced80c1, type: 3}
+  - {fileID: 8300000, guid: 53f37350927445d459a49afe7290c12e, type: 3}
+  - {fileID: 8300000, guid: d27942d4214de9b419b4a15349e93807, type: 3}
+  - {fileID: 8300000, guid: 30c0bfff5a0166045892e27e050c289f, type: 3}
+  gameMusic:
+  - {fileID: 8300000, guid: 5cea6d5e0f8b3b94aa93aa22ea874a7f, type: 3}
+  - {fileID: 8300000, guid: d48b589ce7741a14d8ccae2d6413f770, type: 3}
+  - {fileID: 8300000, guid: 1bde7f52504bbec4d82bd3cc6fd38d3f, type: 3}

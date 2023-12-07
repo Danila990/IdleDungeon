@@ -1,0 +1,30 @@
+mummy_3.png
+size:116,146
+filter:Linear,Linear
+pma:true
+mummy_3/body
+bounds:66,2,46,48
+offsets:2,0,50,48
+mummy_3/head
+bounds:2,52,65,69
+offsets:1,1,67,71
+rotate:90
+mummy_3/l hand
+bounds:86,97,25,22
+offsets:0,1,26,24
+mummy_3/l leg
+bounds:73,55,14,23
+rotate:90
+mummy_3/r hand
+bounds:86,121,23,28
+rotate:90
+mummy_3/r leg
+bounds:73,71,16,24
+offsets:1,0,17,24
+mummy_3/shadow
+bounds:2,119,82,25
+offsets:1,1,84,27
+mummy_3/sword
+bounds:2,2,48,62
+offsets:1,1,50,64
+rotate:90

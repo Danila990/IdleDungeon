@@ -1,0 +1,48 @@
+{ "skeleton": { "images": "C:/Users/welld/Desktop/viking/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "char", "bone": "root", "attachment": "char" },
+	{ "name": "shadow", "bone": "root", "attachment": "shadow" },
+	{ "name": "l leg", "bone": "root", "attachment": "l leg" },
+	{ "name": "r leg", "bone": "root", "attachment": "r leg" },
+	{ "name": "l hand", "bone": "root", "attachment": "l hand" },
+	{ "name": "axe", "bone": "root", "attachment": "axe" },
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "r hand", "bone": "root", "attachment": "r hand" },
+	{ "name": "head", "bone": "root", "attachment": "head" }
+],
+"skins": {
+	"default": {
+		"char": {
+			"char": { "x": 413.5, "y": -128.5, "width": 139, "height": 133 }
+		},
+		"shadow": {
+			"shadow": { "x": 386, "y": -181.5, "width": 84, "height": 27 }
+		},
+		"l leg": {
+			"l leg": { "x": 407, "y": -169.5, "width": 14, "height": 23 }
+		},
+		"r leg": {
+			"r leg": { "x": 363.5, "y": -168.5, "width": 17, "height": 25 }
+		},
+		"l hand": {
+			"l hand": { "x": 413.5, "y": -149.5, "width": 23, "height": 15 }
+		},
+		"axe": {
+			"axe": { "x": 448.5, "y": -138.5, "width": 69, "height": 59 }
+		},
+		"body": {
+			"body": { "x": 388, "y": -147.5, "width": 54, "height": 51 }
+		},
+		"r hand": {
+			"r hand": { "x": 361, "y": -146.5, "width": 24, "height": 21 }
+		},
+		"head": {
+			"head": { "x": 394, "y": -102.5, "width": 86, "height": 81 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

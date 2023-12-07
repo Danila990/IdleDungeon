@@ -1,0 +1,56 @@
+{ "skeleton": { "images": "C:/Users/welld/Desktop/asterix/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "char", "bone": "root", "attachment": "char" },
+	{ "name": "fist", "bone": "root", "attachment": "fist" },
+	{ "name": "shadow", "bone": "root", "attachment": "shadow" },
+	{ "name": "l leg", "bone": "root", "attachment": "l leg" },
+	{ "name": "r leg", "bone": "root", "attachment": "r leg" },
+	{ "name": "l hand", "bone": "root", "attachment": "l hand" },
+	{ "name": "sword", "bone": "root", "attachment": "sword" },
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "r hand", "bone": "root", "attachment": "r hand" },
+	{ "name": "scapular", "bone": "root", "attachment": "scapular" },
+	{ "name": "head", "bone": "root", "attachment": "head" }
+],
+"skins": {
+	"default": {
+		"char": {
+			"char": { "x": 344, "y": -84.5, "width": 146, "height": 139 }
+		},
+		"fist": {
+			"fist": { "x": 444, "y": -45.5, "width": 66, "height": 45 }
+		},
+		"shadow": {
+			"shadow": { "x": 314, "y": -140.5, "width": 84, "height": 27 }
+		},
+		"l leg": {
+			"l leg": { "x": 331.5, "y": -127.5, "width": 27, "height": 31 }
+		},
+		"r leg": {
+			"r leg": { "x": 298.5, "y": -125, "width": 33, "height": 36 }
+		},
+		"l hand": {
+			"l hand": { "x": 347.5, "y": -106.5, "width": 27, "height": 23 }
+		},
+		"sword": {
+			"sword": { "x": 378, "y": -98.5, "width": 76, "height": 63 }
+		},
+		"body": {
+			"body": { "x": 316, "y": -104, "width": 50, "height": 50 }
+		},
+		"r hand": {
+			"r hand": { "x": 289.5, "y": -99.5, "width": 23, "height": 29 }
+		},
+		"scapular": {
+			"scapular": { "x": 297, "y": -87.5, "width": 24, "height": 21 }
+		},
+		"head": {
+			"head": { "x": 318.5, "y": -59.5, "width": 95, "height": 89 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

@@ -1,0 +1,56 @@
+{ "skeleton": { "images": "C:/Users/welld/Desktop/thor/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "char", "bone": "root", "attachment": "char" },
+	{ "name": "shadow", "bone": "root", "attachment": "shadow" },
+	{ "name": "cloak", "bone": "root", "attachment": "cloak" },
+	{ "name": "l leg", "bone": "root", "attachment": "l leg" },
+	{ "name": "r leg", "bone": "root", "attachment": "r leg" },
+	{ "name": "l hand", "bone": "root", "attachment": "l hand" },
+	{ "name": "hammer", "bone": "root", "attachment": "hammer" },
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "r hand", "bone": "root", "attachment": "r hand" },
+	{ "name": "scapular", "bone": "root", "attachment": "scapular" },
+	{ "name": "head", "bone": "root", "attachment": "head" }
+],
+"skins": {
+	"default": {
+		"char": {
+			"char": { "x": 412.5, "y": -155, "width": 147, "height": 128 }
+		},
+		"shadow": {
+			"shadow": { "x": 396, "y": -205.5, "width": 84, "height": 27 }
+		},
+		"cloak": {
+			"cloak": { "x": 370, "y": -172.5, "width": 60, "height": 43 }
+		},
+		"l leg": {
+			"l leg": { "x": 411.5, "y": -192.5, "width": 27, "height": 31 }
+		},
+		"r leg": {
+			"r leg": { "x": 378.5, "y": -188.5, "width": 33, "height": 35 }
+		},
+		"l hand": {
+			"l hand": { "x": 421, "y": -169, "width": 26, "height": 24 }
+		},
+		"hammer": {
+			"hammer": { "x": 453, "y": -162, "width": 66, "height": 68 }
+		},
+		"body": {
+			"body": { "x": 396.5, "y": -179, "width": 53, "height": 66 }
+		},
+		"r hand": {
+			"r hand": { "x": 362.5, "y": -168.5, "width": 23, "height": 29 }
+		},
+		"scapular": {
+			"scapular": { "x": 372.5, "y": -158, "width": 43, "height": 32 }
+		},
+		"head": {
+			"head": { "x": 398.5, "y": -133, "width": 79, "height": 84 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

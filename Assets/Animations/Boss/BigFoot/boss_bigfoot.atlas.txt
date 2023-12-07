@@ -1,0 +1,34 @@
+boss_bigfoot.png
+size:487,126
+filter:Linear,Linear
+pma:true
+boss_bigfoot/blade_air1
+bounds:41,2,34,122
+boss_bigfoot/body
+bounds:307,18,106,101
+rotate:90
+boss_bigfoot/head
+bounds:77,4,120,124
+rotate:90
+boss_bigfoot/l hand
+bounds:449,7,41,36
+offsets:0,0,41,37
+rotate:90
+boss_bigfoot/l leg
+bounds:410,50,33,50
+offsets:0,1,33,51
+rotate:90
+boss_bigfoot/r hand
+bounds:410,2,37,46
+boss_bigfoot/r leg
+bounds:410,85,39,58
+rotate:90
+boss_bigfoot/shadow
+bounds:2,2,122,37
+offsets:1,1,124,39
+rotate:90
+boss_bigfoot/snow
+bounds:307,4,11,12
+boss_bigfoot/weapon
+bounds:203,14,102,110
+offsets:1,1,104,112

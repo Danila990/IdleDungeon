@@ -1,0 +1,34 @@
+shaman.png
+size:221,140
+filter:Linear,Linear
+pma:true
+shaman/Elements 2
+bounds:2,35,103,76
+offsets:3,1,107,80
+rotate:90
+shaman/body
+bounds:164,81,48,57
+shaman/head
+bounds:80,50,82,88
+shaman/l hand
+bounds:164,50,29,19
+offsets:0,0,30,20
+rotate:90
+shaman/l leg
+bounds:201,2,14,24
+offsets:0,0,15,24
+shaman/plus
+bounds:163,3,45,36
+offsets:0,2,46,41
+rotate:90
+shaman/r hand
+bounds:185,53,21,26
+shaman/r leg
+bounds:201,28,18,23
+offsets:1,1,19,24
+shaman/shadow
+bounds:2,8,82,25
+offsets:1,1,84,27
+shaman/stick
+bounds:86,7,41,75
+rotate:90

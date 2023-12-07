@@ -1,0 +1,28 @@
+orc_3.png
+size:139,134
+filter:Linear,Linear
+pma:true
+orc_3/body
+bounds:82,86,51,46
+orc_3/head
+bounds:2,64,78,68
+offsets:1,1,80,70
+orc_3/l hand
+bounds:55,4,25,24
+offsets:0,0,26,24
+orc_3/l leg
+bounds:55,30,25,32
+offsets:0,1,25,33
+orc_3/r hand
+bounds:109,22,23,28
+offsets:0,0,24,29
+orc_3/r leg
+bounds:109,52,28,32
+offsets:1,0,29,32
+orc_3/shadow
+bounds:82,2,82,25
+offsets:1,1,84,27
+rotate:90
+orc_3/weapon
+bounds:2,4,51,58
+offsets:1,1,53,60

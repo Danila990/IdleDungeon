@@ -1,0 +1,56 @@
+{ "skeleton": { "images": "C:/Users/welld/Desktop/2/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "char", "bone": "root", "attachment": "char" },
+	{ "name": "arrow", "bone": "root", "attachment": "arrow" },
+	{ "name": "shadow", "bone": "root", "attachment": "shadow" },
+	{ "name": "l leg", "bone": "root", "attachment": "l leg" },
+	{ "name": "r leg", "bone": "root", "attachment": "r leg" },
+	{ "name": "l hand", "bone": "root", "attachment": "l hand" },
+	{ "name": "bow", "bone": "root", "attachment": "bow" },
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "r hand", "bone": "root", "attachment": "r hand" },
+	{ "name": "scapular", "bone": "root", "attachment": "scapular" },
+	{ "name": "head", "bone": "root", "attachment": "head" }
+],
+"skins": {
+	"default": {
+		"char": {
+			"char": { "x": 332, "y": -89.5, "width": 118, "height": 127 }
+		},
+		"arrow": {
+			"arrow": { "x": 442.5, "y": -79, "width": 71, "height": 20 }
+		},
+		"shadow": {
+			"shadow": { "x": 315, "y": -139.5, "width": 84, "height": 27 }
+		},
+		"l leg": {
+			"l leg": { "x": 331.5, "y": -126.5, "width": 27, "height": 31 }
+		},
+		"r leg": {
+			"r leg": { "x": 299.5, "y": -123, "width": 33, "height": 36 }
+		},
+		"l hand": {
+			"l hand": { "x": 353, "y": -92.5, "width": 30, "height": 19 }
+		},
+		"bow": {
+			"bow": { "x": 364, "y": -90, "width": 54, "height": 90 }
+		},
+		"body": {
+			"body": { "x": 316, "y": -106, "width": 52, "height": 62 }
+		},
+		"r hand": {
+			"r hand": { "x": 289, "y": -98.5, "width": 24, "height": 29 }
+		},
+		"scapular": {
+			"scapular": { "x": 295, "y": -82.5, "width": 38, "height": 31 }
+		},
+		"head": {
+			"head": { "x": 327.5, "y": -64.5, "width": 77, "height": 79 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

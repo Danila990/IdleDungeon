@@ -1,0 +1,60 @@
+{ "skeleton": { "images": "C:/Users/welld/Desktop/knight/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "char", "bone": "root", "attachment": "char" },
+	{ "name": "shield", "bone": "root", "attachment": "shield" },
+	{ "name": "cloak", "bone": "root", "attachment": "cloak" },
+	{ "name": "shadow", "bone": "root", "attachment": "shadow" },
+	{ "name": "l leg", "bone": "root", "attachment": "l leg" },
+	{ "name": "r leg", "bone": "root", "attachment": "r leg" },
+	{ "name": "l hand", "bone": "root", "attachment": "l hand" },
+	{ "name": "sword", "bone": "root", "attachment": "sword" },
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "r hand", "bone": "root", "attachment": "r hand" },
+	{ "name": "scapular", "bone": "root", "attachment": "scapular" },
+	{ "name": "head", "bone": "root", "attachment": "head" }
+],
+"skins": {
+	"default": {
+		"char": {
+			"char": { "x": 336, "y": -169, "width": 154, "height": 132 }
+		},
+		"shield": {
+			"shield": { "x": 451, "y": -167.5, "width": 46, "height": 61 }
+		},
+		"cloak": {
+			"cloak": { "x": 289, "y": -183.5, "width": 60, "height": 43 }
+		},
+		"shadow": {
+			"shadow": { "x": 323, "y": -221.5, "width": 84, "height": 27 }
+		},
+		"l leg": {
+			"l leg": { "x": 341, "y": -208.5, "width": 26, "height": 27 }
+		},
+		"r leg": {
+			"r leg": { "x": 308, "y": -206.5, "width": 34, "height": 31 }
+		},
+		"l hand": {
+			"l hand": { "x": 352, "y": -189, "width": 26, "height": 24 }
+		},
+		"sword": {
+			"sword": { "x": 380, "y": -175.5, "width": 66, "height": 79 }
+		},
+		"body": {
+			"body": { "x": 327, "y": -189.5, "width": 46, "height": 41 }
+		},
+		"r hand": {
+			"r hand": { "x": 293, "y": -186.5, "width": 24, "height": 29 }
+		},
+		"scapular": {
+			"scapular": { "x": 305.5, "y": -175.5, "width": 37, "height": 29 }
+		},
+		"head": {
+			"head": { "x": 338, "y": -146.5, "width": 74, "height": 87 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

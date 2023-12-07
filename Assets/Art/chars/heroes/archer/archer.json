@@ -1,0 +1,60 @@
+{ "skeleton": { "images": "C:/Users/welld/Desktop/archer/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "char", "bone": "root", "attachment": "char" },
+	{ "name": "arrow", "bone": "root", "attachment": "arrow" },
+	{ "name": "shadow", "bone": "root", "attachment": "shadow" },
+	{ "name": "quiver", "bone": "root", "attachment": "quiver" },
+	{ "name": "l hand", "bone": "root", "attachment": "l hand" },
+	{ "name": "bow", "bone": "root", "attachment": "bow" },
+	{ "name": "l leg", "bone": "root", "attachment": "l leg" },
+	{ "name": "r leg", "bone": "root", "attachment": "r leg" },
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "r hand", "bone": "root", "attachment": "r hand" },
+	{ "name": "scapular", "bone": "root", "attachment": "scapular" },
+	{ "name": "head", "bone": "root", "attachment": "head" }
+],
+"skins": {
+	"default": {
+		"char": {
+			"char": { "x": 358.5, "y": -117.5, "width": 103, "height": 127 }
+		},
+		"arrow": {
+			"arrow": { "x": 443, "y": -82.5, "width": 62, "height": 19 }
+		},
+		"shadow": {
+			"shadow": { "x": 352, "y": -167.5, "width": 84, "height": 27 }
+		},
+		"quiver": {
+			"quiver": { "x": 335.5, "y": -121, "width": 35, "height": 30 }
+		},
+		"l hand": {
+			"l hand": { "x": 378, "y": -130, "width": 30, "height": 20 }
+		},
+		"bow": {
+			"bow": { "x": 379, "y": -125.5, "width": 62, "height": 71 }
+		},
+		"l leg": {
+			"l leg": { "x": 366, "y": -153, "width": 28, "height": 32 }
+		},
+		"r leg": {
+			"r leg": { "x": 336.5, "y": -154, "width": 27, "height": 30 }
+		},
+		"body": {
+			"body": { "x": 351.5, "y": -129.5, "width": 41, "height": 43 }
+		},
+		"r hand": {
+			"r hand": { "x": 329, "y": -126.5, "width": 22, "height": 27 }
+		},
+		"scapular": {
+			"scapular": { "x": 336.5, "y": -117, "width": 27, "height": 22 }
+		},
+		"head": {
+			"head": { "x": 351.5, "y": -91, "width": 89, "height": 74 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

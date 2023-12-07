@@ -1,0 +1,56 @@
+{ "skeleton": { "images": "C:/Users/welld/Desktop/simple_man/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "char", "bone": "root", "attachment": "char" },
+	{ "name": "shadow", "bone": "root", "attachment": "shadow" },
+	{ "name": "l leg", "bone": "root", "attachment": "l leg" },
+	{ "name": "r leg", "bone": "root", "attachment": "r leg" },
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "l hand", "bone": "root", "attachment": "l hand" },
+	{ "name": "r hand", "bone": "root", "attachment": "r hand" },
+	{ "name": "sword", "bone": "root", "attachment": "sword" },
+	{ "name": "l scapular", "bone": "root", "attachment": "l scapular" },
+	{ "name": "r scapular", "bone": "root", "attachment": "r scapular" },
+	{ "name": "head", "bone": "root", "attachment": "head" }
+],
+"skins": {
+	"default": {
+		"char": {
+			"char": { "x": 383.5, "y": -112, "width": 141, "height": 126 }
+		},
+		"shadow": {
+			"shadow": { "x": 355, "y": -162.5, "width": 84, "height": 27 }
+		},
+		"l leg": {
+			"l leg": { "x": 371.5, "y": -149.5, "width": 27, "height": 31 }
+		},
+		"r leg": {
+			"r leg": { "x": 337.5, "y": -145.5, "width": 33, "height": 35 }
+		},
+		"body": {
+			"body": { "x": 353, "y": -128.5, "width": 48, "height": 45 }
+		},
+		"l hand": {
+			"l hand": { "x": 388, "y": -128.5, "width": 26, "height": 23 }
+		},
+		"r hand": {
+			"r hand": { "x": 328.5, "y": -121.5, "width": 23, "height": 29 }
+		},
+		"sword": {
+			"sword": { "x": 418, "y": -114, "width": 70, "height": 74 }
+		},
+		"l scapular": {
+			"l scapular": { "x": 380.5, "y": -110.5, "width": 29, "height": 31 }
+		},
+		"r scapular": {
+			"r scapular": { "x": 339.5, "y": -111, "width": 33, "height": 28 }
+		},
+		"head": {
+			"head": { "x": 366.5, "y": -87.5, "width": 69, "height": 77 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

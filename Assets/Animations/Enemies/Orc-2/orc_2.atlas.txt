@@ -1,0 +1,36 @@
+orc_2.png
+size:263,86
+filter:Linear,Linear
+pma:true
+orc_2/axe
+bounds:81,14,70,62
+offsets:1,1,72,64
+rotate:90
+orc_2/body
+bounds:145,34,50,44
+rotate:90
+orc_2/head
+bounds:2,6,78,77
+offsets:1,1,80,79
+rotate:90
+orc_2/l hand
+bounds:229,2,25,24
+offsets:0,0,26,24
+orc_2/l leg
+bounds:191,60,24,33
+offsets:0,1,24,34
+rotate:90
+orc_2/r hand
+bounds:191,35,23,27
+offsets:0,0,24,28
+rotate:90
+orc_2/r leg
+bounds:229,56,28,32
+offsets:1,0,29,32
+rotate:90
+orc_2/scapular
+bounds:229,28,29,26
+offsets:1,1,31,28
+orc_2/shadow
+bounds:145,8,82,24
+offsets:1,1,84,26

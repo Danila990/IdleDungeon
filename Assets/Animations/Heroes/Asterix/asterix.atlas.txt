@@ -1,0 +1,40 @@
+asterix.png
+size:356,93
+filter:Linear,Linear
+pma:true
+asterix/body
+bounds:175,41,50,50
+asterix/claw
+bounds:227,57,34,120
+offsets:0,2,34,122
+rotate:90
+asterix/fist
+bounds:227,12,64,43
+offsets:1,1,66,45
+asterix/head
+bounds:2,2,95,89
+asterix/l hand
+bounds:325,30,25,23
+offsets:1,0,27,23
+rotate:90
+asterix/l leg
+bounds:293,29,26,30
+offsets:0,1,27,31
+rotate:90
+asterix/r hand
+bounds:325,6,22,29
+offsets:1,0,23,29
+rotate:90
+asterix/r leg
+bounds:183,6,33,35
+offsets:0,1,33,36
+rotate:90
+asterix/scapular
+bounds:293,8,22,19
+offsets:1,1,24,21
+asterix/shadow
+bounds:99,3,82,25
+offsets:1,1,84,27
+asterix/sword
+bounds:99,30,74,61
+offsets:1,1,76,63

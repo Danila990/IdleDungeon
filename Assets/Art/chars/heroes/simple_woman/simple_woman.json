@@ -1,0 +1,60 @@
+{ "skeleton": { "images": "C:/Users/welld/Desktop/simple_woman/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "char", "bone": "root", "attachment": "char" },
+	{ "name": "shield_1", "bone": "root", "attachment": "shield_1" },
+	{ "name": "shadow", "bone": "root", "attachment": "shadow" },
+	{ "name": "l leg", "bone": "root", "attachment": "l leg" },
+	{ "name": "r leg", "bone": "root", "attachment": "r leg" },
+	{ "name": "l hand", "bone": "root", "attachment": "l hand" },
+	{ "name": "shield", "bone": "root", "attachment": "shield" },
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "r hand", "bone": "root", "attachment": "r hand" },
+	{ "name": "sword", "bone": "root", "attachment": "sword" },
+	{ "name": "scapular", "bone": "root", "attachment": "scapular" },
+	{ "name": "head", "bone": "root", "attachment": "head" }
+],
+"skins": {
+	"default": {
+		"char": {
+			"char": { "x": 333.5, "y": -114.5, "width": 139, "height": 125 }
+		},
+		"shield_1": {
+			"shield_1": { "x": 445.5, "y": -135, "width": 47, "height": 60 }
+		},
+		"shadow": {
+			"shadow": { "x": 342, "y": -163.5, "width": 84, "height": 27 }
+		},
+		"l leg": {
+			"l leg": { "x": 360.5, "y": -152.5, "width": 17, "height": 25 }
+		},
+		"r leg": {
+			"r leg": { "x": 321, "y": -151.5, "width": 22, "height": 25 }
+		},
+		"l hand": {
+			"l hand": { "x": 372, "y": -133.5, "width": 30, "height": 19 }
+		},
+		"shield": {
+			"shield": { "x": 387, "y": -133.5, "width": 32, "height": 49 }
+		},
+		"body": {
+			"body": { "x": 343, "y": -130.5, "width": 40, "height": 39 }
+		},
+		"r hand": {
+			"r hand": { "x": 313.5, "y": -126, "width": 31, "height": 18 }
+		},
+		"sword": {
+			"sword": { "x": 288.5, "y": -114, "width": 49, "height": 76 }
+		},
+		"scapular": {
+			"scapular": { "x": 327.5, "y": -119.5, "width": 27, "height": 21 }
+		},
+		"head": {
+			"head": { "x": 347, "y": -90, "width": 82, "height": 76 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

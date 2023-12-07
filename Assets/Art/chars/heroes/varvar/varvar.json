@@ -1,0 +1,60 @@
+{ "skeleton": { "images": "C:/Users/welld/Desktop/varvar/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "char", "bone": "root", "attachment": "char" },
+	{ "name": "anvil", "bone": "root", "attachment": "anvil" },
+	{ "name": "shadow", "bone": "root", "attachment": "shadow" },
+	{ "name": "l leg", "bone": "root", "attachment": "l leg" },
+	{ "name": "r leg", "bone": "root", "attachment": "r leg" },
+	{ "name": "l hand", "bone": "root", "attachment": "l hand" },
+	{ "name": "sword", "bone": "root", "attachment": "sword" },
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "r hand", "bone": "root", "attachment": "r hand" },
+	{ "name": "scapular", "bone": "root", "attachment": "scapular" },
+	{ "name": "tail", "bone": "root", "attachment": "tail" },
+	{ "name": "head", "bone": "root", "attachment": "head" }
+],
+"skins": {
+	"default": {
+		"char": {
+			"char": { "x": 385, "y": -166, "width": 130, "height": 126 }
+		},
+		"anvil": {
+			"anvil": { "x": 443, "y": -55.5, "width": 88, "height": 63 }
+		},
+		"shadow": {
+			"shadow": { "x": 363, "y": -215.5, "width": 84, "height": 27 }
+		},
+		"l leg": {
+			"l leg": { "x": 379.5, "y": -203.5, "width": 27, "height": 31 }
+		},
+		"r leg": {
+			"r leg": { "x": 346.5, "y": -199.5, "width": 33, "height": 35 }
+		},
+		"l hand": {
+			"l hand": { "x": 392, "y": -179, "width": 26, "height": 24 }
+		},
+		"sword": {
+			"sword": { "x": 419.5, "y": -170.5, "width": 61, "height": 69 }
+		},
+		"body": {
+			"body": { "x": 363.5, "y": -188.5, "width": 55, "height": 55 }
+		},
+		"r hand": {
+			"r hand": { "x": 331.5, "y": -179.5, "width": 23, "height": 29 }
+		},
+		"scapular": {
+			"scapular": { "x": 339, "y": -166, "width": 36, "height": 32 }
+		},
+		"tail": {
+			"tail": { "x": 337, "y": -126, "width": 34, "height": 42 }
+		},
+		"head": {
+			"head": { "x": 366.5, "y": -146, "width": 73, "height": 84 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

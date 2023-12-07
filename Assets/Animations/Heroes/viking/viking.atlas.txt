@@ -1,0 +1,43 @@
+viking.png
+size:194,388
+filter:Linear,Linear
+pma:true
+viking/axe
+bounds:130,319,67,57
+offsets:1,1,69,59
+rotate:90
+viking/blade_air1
+bounds:2,14,34,120
+offsets:0,2,34,122
+rotate:90
+viking/body
+bounds:124,2,54,51
+rotate:90
+viking/head
+bounds:111,129,86,81
+rotate:90
+viking/l hand
+bounds:130,218,23,15
+viking/l leg
+bounds:155,220,13,22
+offsets:1,1,14,23
+rotate:90
+viking/r hand
+bounds:157,293,24,21
+rotate:90
+viking/r leg
+bounds:157,266,17,25
+viking/shadow
+bounds:130,235,82,25
+offsets:1,1,84,27
+rotate:90
+viking/smear
+bounds:2,217,169,126
+offsets:19,2,224,129
+rotate:90
+viking/wave
+bounds:111,58,69,69
+viking/wave2
+bounds:2,50,165,107
+offsets:11,0,176,108
+rotate:90

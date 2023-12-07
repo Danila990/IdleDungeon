@@ -1,0 +1,46 @@
+fishman.png
+size:868,91
+filter:Linear,Linear
+pma:true
+fishman/body
+bounds:714,37,52,53
+rotate:90
+fishman/fish
+bounds:769,40,71,49
+fishman/head
+bounds:619,12,77,93
+rotate:90
+fishman/l hand
+bounds:741,10,25,23
+offsets:0,0,26,23
+rotate:90
+fishman/l leg
+bounds:803,7,27,31
+offsets:0,0,27,32
+fishman/r hand
+bounds:714,10,25,25
+offsets:1,0,26,25
+fishman/r leg
+bounds:769,9,29,32
+offsets:0,1,29,33
+rotate:90
+fishman/shadow
+bounds:842,7,82,24
+offsets:1,1,84,26
+rotate:90
+fishman/spean/spean_0000
+bounds:2,2,87,122
+rotate:90
+fishman/spean/spean_0001
+bounds:126,2,87,122
+rotate:90
+fishman/spean/spean_0002
+bounds:498,2,87,119
+offsets:0,0,87,122
+rotate:90
+fishman/spean/spean_0003
+bounds:250,2,87,122
+rotate:90
+fishman/spean/spean_0004
+bounds:374,2,87,122
+rotate:90

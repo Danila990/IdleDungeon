@@ -1,0 +1,48 @@
+{ "skeleton": { "images": "C:/Users/welld/Desktop/boss_bigfoot/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "char", "bone": "root", "attachment": "char" },
+	{ "name": "shadow", "bone": "root", "attachment": "shadow" },
+	{ "name": "l leg", "bone": "root", "attachment": "l leg" },
+	{ "name": "r leg", "bone": "root", "attachment": "r leg" },
+	{ "name": "l hand", "bone": "root", "attachment": "l hand" },
+	{ "name": "weapon", "bone": "root", "attachment": "weapon" },
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "r hand", "bone": "root", "attachment": "r hand" },
+	{ "name": "head", "bone": "root", "attachment": "head" }
+],
+"skins": {
+	"default": {
+		"char": {
+			"char": { "x": 131, "y": -204, "width": 238, "height": 194 }
+		},
+		"shadow": {
+			"shadow": { "x": 81, "y": -281.5, "width": 124, "height": 39 }
+		},
+		"l leg": {
+			"l leg": { "x": 107.5, "y": -254.5, "width": 33, "height": 51 }
+		},
+		"r leg": {
+			"r leg": { "x": 56.5, "y": -247, "width": 39, "height": 58 }
+		},
+		"l hand": {
+			"l hand": { "x": 155.5, "y": -224.5, "width": 41, "height": 37 }
+		},
+		"weapon": {
+			"weapon": { "x": 197, "y": -211, "width": 104, "height": 112 }
+		},
+		"body": {
+			"body": { "x": 90, "y": -210.5, "width": 106, "height": 101 }
+		},
+		"r hand": {
+			"r hand": { "x": 29.5, "y": -215, "width": 37, "height": 46 }
+		},
+		"head": {
+			"head": { "x": 97, "y": -169, "width": 120, "height": 124 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

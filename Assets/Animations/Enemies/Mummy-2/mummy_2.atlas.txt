@@ -1,0 +1,40 @@
+mummy_2.png
+size:137,144
+filter:Linear,Linear
+pma:true
+mummy_2/body
+bounds:63,20,45,48
+offsets:0,1,45,49
+rotate:90
+mummy_2/head
+bounds:28,67,78,75
+offsets:1,1,80,77
+mummy_2/l hand
+bounds:108,86,25,23
+offsets:1,0,27,23
+rotate:90
+mummy_2/l leg
+bounds:63,4,14,23
+rotate:90
+mummy_2/l scapular
+bounds:113,39,27,22
+offsets:1,1,29,24
+rotate:90
+mummy_2/r hand
+bounds:108,113,24,29
+mummy_2/r leg
+bounds:108,68,16,23
+offsets:1,1,17,25
+rotate:90
+mummy_2/r scapular
+bounds:113,10,27,22
+offsets:1,1,29,24
+rotate:90
+mummy_2/shadow
+bounds:2,60,82,24
+offsets:1,1,84,26
+rotate:90
+mummy_2/weapon
+bounds:2,2,56,59
+offsets:1,1,58,61
+rotate:90

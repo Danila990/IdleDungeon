@@ -1,0 +1,28 @@
+zombie_3.png
+size:146,126
+filter:Linear,Linear
+pma:true
+zombie_3/body
+bounds:66,74,51,50
+zombie_3/head
+bounds:2,57,62,67
+offsets:1,1,64,69
+zombie_3/l hand
+bounds:113,17,25,23
+offsets:0,0,26,23
+zombie_3/l leg
+bounds:59,10,26,30
+offsets:0,1,27,31
+zombie_3/r hand
+bounds:87,11,24,29
+zombie_3/r leg
+bounds:66,42,30,31
+offsets:0,0,33,35
+rotate:90
+zombie_3/shadow
+bounds:119,42,82,25
+offsets:1,1,84,27
+rotate:90
+zombie_3/weapon
+bounds:2,2,55,53
+offsets:1,1,57,55

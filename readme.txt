@@ -1,0 +1,3 @@
+idledungeon.keystore
+alias
+m4z4f4k41M1LL!

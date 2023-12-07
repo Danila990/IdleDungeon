@@ -1,0 +1,236 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Titles Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Titles
+  m_TableCollectionNameGuidString: 32bddb0998ecd2348b31b34463d16670
+  m_Entries:
+  - m_Id: 13465767936
+    m_Key: Button_Use
+    m_Metadata:
+      m_Items: []
+  - m_Id: 571467583488
+    m_Key: Text_Unlimited
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1663538515968
+    m_Key: Button_Buy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2569935998976
+    m_Key: Text_More
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3038548807680
+    m_Key: Text_Auto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4899469217792
+    m_Key: Text_VIctory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4962471858176
+    m_Key: Text_Defeat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5014422507520
+    m_Key: Text_Bonus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5197671649280
+    m_Key: Text_Claim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5631769530368
+    m_Key: Text_NewHero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7465322106880
+    m_Key: Text_Get
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8065057247232
+    m_Key: Text_BuyNoAds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35492416409600
+    m_Key: Button_Fight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54150526095360
+    m_Key: Button_Battle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55574446166016
+    m_Key: Text_Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55706382192640
+    m_Key: Button_Heroes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56031457529856
+    m_Key: Button_Map
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56249800413184
+    m_Key: Button_Clans
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60848720531456
+    m_Key: Text_Health
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61163977003008
+    m_Key: Text_Damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61328163033088
+    m_Key: Text_AttackRate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61530986991616
+    m_Key: Text_AbilityCooldown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61785686102016
+    m_Key: Text_Upgrade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63103771299840
+    m_Key: Ice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63158796374016
+    m_Key: Skill_Ice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63753628372992
+    m_Key: SimpleMale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63829620772864
+    m_Key: Skill_SimpleMale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63909673259008
+    m_Key: SimpleFemale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63981421023232
+    m_Key: Skill_SimpleFemale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64137855979520
+    m_Key: Viking
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71753722187776
+    m_Key: Skill_Viking
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71856323252224
+    m_Key: Knight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71883720445952
+    m_Key: Skill_Knight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72040432226304
+    m_Key: Varvar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72047164084224
+    m_Key: Skill_Varvar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72245399474176
+    m_Key: Fishman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72259421032448
+    m_Key: Skill_Fishman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72346230542336
+    m_Key: SpearMan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72375422898176
+    m_Key: Skill_SpearMan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72496223047680
+    m_Key: Shaman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72502992654336
+    m_Key: Skill_Shaman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72614984765440
+    m_Key: Asterix
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72723575296000
+    m_Key: Skill_Asterix
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72826465767424
+    m_Key: medium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72895705337856
+    m_Key: fast
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74605391728640
+    m_Key: Text_Remove
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74742000209920
+    m_Key: Text_Add
+    m_Metadata:
+      m_Items: []
+  - m_Id: 353268557369344
+    m_Key: BuyNoAds_Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 396003427438592
+    m_Key: Text_ExclusiveHero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 396176396341248
+    m_Key: Text_Sale70
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25078349021040640
+    m_Key: Button_NoAd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25079034559057920
+    m_Key: Button_yan
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7791772742227329049
+  references:
+    version: 2
+    RefIds:
+    - rid: 7791772742227329049
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1690872962788

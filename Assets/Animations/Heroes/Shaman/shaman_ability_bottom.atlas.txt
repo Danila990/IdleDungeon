@@ -1,0 +1,7 @@
+shaman_ability_bottom.png
+size:107,80
+filter:Linear,Linear
+pma:true
+shaman/Elements 2
+bounds:2,2,103,76
+offsets:3,1,107,80

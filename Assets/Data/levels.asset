@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22e917ce425b3f94d973203293175f53, type: 3}
+  m_Name: levels
+  m_EditorClassIdentifier: 
+  SheetName: Assets/Data/GDD IDLE DUNGEON.xlsx
+  WorksheetName: levels
+  dataArray:
+  - lvl: 0
+    room1: 2
+    room2: 3
+    room3: 0
+    coefenemyhp: 1
+    multiplierhp: 1
+  - lvl: 1
+    room1: 3
+    room2: 4
+    room3: 4
+    coefenemyhp: 1
+    multiplierhp: 1
+  - lvl: 2
+    room1: 4
+    room2: 4
+    room3: 4
+    coefenemyhp: 1
+    multiplierhp: 1
+  - lvl: 3
+    room1: 4
+    room2: 5
+    room3: 6
+    coefenemyhp: 1
+    multiplierhp: 1
+  - lvl: 4
+    room1: 6
+    room2: 6
+    room3: 1
+    coefenemyhp: 1
+    multiplierhp: 1
+  - lvl: 5
+    room1: 6
+    room2: 7
+    room3: 7
+    coefenemyhp: 1
+    multiplierhp: 1
+  - lvl: 6
+    room1: 7
+    room2: 7
+    room3: 7
+    coefenemyhp: 1
+    multiplierhp: 1
+  - lvl: 7
+    room1: 7
+    room2: 7
+    room3: 7
+    coefenemyhp: 1
+    multiplierhp: 1
+  - lvl: 8
+    room1: 7
+    room2: 8
+    room3: 8
+    coefenemyhp: 1
+    multiplierhp: 1
+  - lvl: 9
+    room1: 8
+    room2: 8
+    room3: 1
+    coefenemyhp: 1
+    multiplierhp: 1
+  - lvl: 10
+    room1: 9
+    room2: 9
+    room3: 9
+    coefenemyhp: 1
+    multiplierhp: 1
+  - lvl: 11
+    room1: 9
+    room2: 9
+    room3: 9
+    coefenemyhp: 2
+    multiplierhp: 1
+  - lvl: 15
+    room1: 9
+    room2: 9
+    room3: 9
+    coefenemyhp: 2
+    multiplierhp: 1
+  - lvl: 20
+    room1: 9
+    room2: 9
+    room3: 9
+    coefenemyhp: 2
+    multiplierhp: 1

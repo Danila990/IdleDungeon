@@ -1,0 +1,48 @@
+{ "skeleton": { "images": "C:/Users/welld/Desktop/mummy_1/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "char", "bone": "root", "attachment": "char" },
+	{ "name": "shadow", "bone": "root", "attachment": "shadow" },
+	{ "name": "l leg", "bone": "root", "attachment": "l leg" },
+	{ "name": "r leg", "bone": "root", "attachment": "r leg" },
+	{ "name": "l hand", "bone": "root", "attachment": "l hand" },
+	{ "name": "sword", "bone": "root", "attachment": "sword" },
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "r hand", "bone": "root", "attachment": "r hand" },
+	{ "name": "head", "bone": "root", "attachment": "head" }
+],
+"skins": {
+	"default": {
+		"char": {
+			"char": { "x": 177, "y": -151.5, "width": 274, "height": 141 }
+		},
+		"shadow": {
+			"shadow": { "x": 82, "y": -208.5, "width": 84, "height": 27 }
+		},
+		"l leg": {
+			"l leg": { "x": 98, "y": -195.5, "width": 14, "height": 23 }
+		},
+		"r leg": {
+			"r leg": { "x": 64.5, "y": -195, "width": 17, "height": 24 }
+		},
+		"l hand": {
+			"l hand": { "x": 113, "y": -176.5, "width": 26, "height": 23 }
+		},
+		"sword": {
+			"sword": { "x": 139.5, "y": -169.5, "width": 55, "height": 61 }
+		},
+		"body": {
+			"body": { "x": 83.5, "y": -168, "width": 45, "height": 48 }
+		},
+		"r hand": {
+			"r hand": { "x": 55, "y": -166.5, "width": 24, "height": 29 }
+		},
+		"head": {
+			"head": { "x": 93.5, "y": -134, "width": 67, "height": 72 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 068de48dd87c6044f9e4440439356e7f, type: 3}
+  m_Name: heroesStats
+  m_EditorClassIdentifier: 
+  SheetName: Assets/Data/GDD IDLE DUNGEON.xlsx
+  WorksheetName: heroesStats
+  dataArray:
+  - ind: 5
+    id: SimpleMale
+    name: Chickpeare
+    abilitydiscription: A hard hit on the enemy
+    unlockonlvl: -1
+    starthp: 100
+    startdamage: 20
+    velocity: 5
+    abilitystat: 3
+    abilitystatsec: 0
+    upgradestartprice: 100
+    abilitycooldown: 5
+    attackrate: medium
+  - ind: 4
+    id: SimpleFemale
+    name: Teffana
+    abilitydiscription: Invulnerable for a while
+    unlockonlvl: -1
+    starthp: 100
+    startdamage: 20
+    velocity: 5
+    abilitystat: 1
+    abilitystatsec: 3
+    upgradestartprice: 100
+    abilitycooldown: 8
+    attackrate: medium
+  - ind: 8
+    id: Viking
+    name: Helga
+    abilitydiscription: A hard hit on a group of enemies
+    unlockonlvl: 3
+    starthp: 100
+    startdamage: 20
+    velocity: 5
+    abilitystat: 2
+    abilitystatsec: 0
+    upgradestartprice: 100
+    abilitycooldown: 7
+    attackrate: fast
+  - ind: 1
+    id: Knight
+    name: Knight
+    abilitydiscription: Selected hero will become temporarily invulnerable
+    unlockonlvl: 29
+    starthp: 100
+    startdamage: 20
+    velocity: 5
+    abilitystat: 1
+    abilitystatsec: 3
+    upgradestartprice: 100
+    abilitycooldown: 9
+    attackrate: medium
+  - ind: 7
+    id: Varvar
+    name: Brosey
+    abilitydiscription: Throws the anvil to the chosen place
+    unlockonlvl: 9
+    starthp: 100
+    startdamage: 20
+    velocity: 5
+    abilitystat: 2
+    abilitystatsec: 0
+    upgradestartprice: 100
+    abilitycooldown: 6
+    attackrate: medium
+  - ind: 9
+    id: Fishman
+    name: Fishman
+    abilitydiscription: Spinning around with a fish in his hands
+    unlockonlvl: 14
+    starthp: 100
+    startdamage: 20
+    velocity: 5
+    abilitystat: 2
+    abilitystatsec: 0
+    upgradestartprice: 100
+    abilitycooldown: 7
+    attackrate: medium
+  - ind: 6
+    id: SpearMan
+    name: Stein
+    abilitydiscription: Turns his spear into a SUPER spear
+    unlockonlvl: 19
+    starthp: 100
+    startdamage: 20
+    velocity: 5
+    abilitystat: 3
+    abilitystatsec: 3
+    upgradestartprice: 100
+    abilitycooldown: 8
+    attackrate: fast
+  - ind: 2
+    id: Shaman
+    name: Shaman
+    abilitydiscription: Treats the weakest hero
+    unlockonlvl: 34
+    starthp: 100
+    startdamage: 20
+    velocity: 5
+    abilitystat: 15
+    abilitystatsec: 0
+    upgradestartprice: 100
+    abilitycooldown: 10
+    attackrate: medium
+  - ind: 0
+    id: Ice
+    name: Frosty
+    abilitydiscription: Freezes a group of enemies
+    unlockonlvl: 24
+    starthp: 100
+    startdamage: 20
+    velocity: 5
+    abilitystat: 1
+    abilitystatsec: 3
+    upgradestartprice: 100
+    abilitycooldown: 10
+    attackrate: medium
+  - ind: 3
+    id: Asterix
+    name: Diomid
+    abilitydiscription: A hard hit on a group of enemies
+    unlockonlvl: 39
+    starthp: 100
+    startdamage: 20
+    velocity: 5
+    abilitystat: 3
+    abilitystatsec: 0
+    upgradestartprice: 100
+    abilitycooldown: 8
+    attackrate: medium

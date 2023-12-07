@@ -1,0 +1,31 @@
+skeleton_1.png
+size:77,215
+filter:Linear,Linear
+pma:true
+skeleton_1/body
+bounds:29,52,44,44
+skeleton_1/head
+bounds:2,151,62,71
+offsets:1,1,64,73
+rotate:90
+skeleton_1/l hand
+bounds:29,2,25,23
+offsets:0,0,26,23
+skeleton_1/l leg
+bounds:56,2,13,22
+offsets:0,0,14,23
+skeleton_1/r hand
+bounds:29,27,23,28
+offsets:0,0,24,29
+rotate:90
+skeleton_1/r leg
+bounds:59,26,16,24
+offsets:1,0,17,24
+skeleton_1/shadow
+bounds:2,14,82,25
+offsets:1,1,84,27
+rotate:90
+skeleton_1/sword
+bounds:2,98,51,69
+offsets:1,1,53,71
+rotate:90

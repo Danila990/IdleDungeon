@@ -1,0 +1,42 @@
+boss_rock.png
+size:235,285
+filter:Linear,Linear
+pma:true
+boss_rock/blade_air1
+bounds:2,2,34,122
+rotate:90
+boss_rock/body
+bounds:120,76,100,109
+rotate:90
+boss_rock/craks
+bounds:126,40,107,34
+boss_rock/head
+bounds:120,178,105,109
+offsets:1,1,107,111
+rotate:90
+boss_rock/l hand
+bounds:50,78,41,36
+offsets:0,0,41,37
+boss_rock/l leg
+bounds:179,5,33,47
+offsets:0,1,33,49
+rotate:90
+boss_rock/l scapular
+bounds:2,116,58,49
+offsets:1,1,60,51
+rotate:90
+boss_rock/r hand
+bounds:2,77,37,46
+rotate:90
+boss_rock/r leg
+bounds:126,4,34,51
+rotate:90
+boss_rock/r scapular
+bounds:53,126,59,48
+offsets:1,1,61,50
+boss_rock/shadow
+bounds:2,38,122,36
+offsets:1,1,124,38
+boss_rock/weapon
+bounds:2,176,116,107
+offsets:1,1,118,109
